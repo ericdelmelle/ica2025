@@ -158,7 +158,14 @@
     "href": "index.html#emotion-mapping-2",
     "title": "Emotional Landscapes: Mapping Urban Park Sentiments Using Natural Language Processing",
     "section": "Emotion mapping",
-    "text": "Emotion mapping\n ## Additional Research - Latent Dirichlet Allocation — a topic modeling in NLP"
+    "text": "Emotion mapping"
+  },
+  {
+    "objectID": "index.html#additional-research",
+    "href": "index.html#additional-research",
+    "title": "Emotional Landscapes: Mapping Urban Park Sentiments Using Natural Language Processing",
+    "section": "Additional Research",
+    "text": "Additional Research\n\nLatent Dirichlet Allocation — a topic modeling in NLP"
   },
   {
     "objectID": "index.html#discussion-and-limitations-1",

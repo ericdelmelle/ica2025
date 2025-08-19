@@ -233,7 +233,9 @@ knitr::opts_chunk$set(fig.retina = 1)
 ## Emotion mapping
 
 ![](images/emotionMap3.png){.center} 
+
 ## Additional Research
+
 - **Latent Dirichlet Allocation** — a topic modeling in *NLP*
 ![](images/lda_keywords_table.png){.center} 
 
