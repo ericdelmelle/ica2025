@@ -161,13 +161,6 @@
     "text": "Emotion mapping"
   },
   {
-    "objectID": "index.html#additional-research",
-    "href": "index.html#additional-research",
-    "title": "Emotional Landscapes: Mapping Urban Park Sentiments Using Natural Language Processing",
-    "section": "Additional Research",
-    "text": "Additional Research\n\nLatent Dirichlet Allocation (LDA) — a topic modeling in NLP"
-  },
-  {
     "objectID": "index.html#discussion-and-limitations-1",
     "href": "index.html#discussion-and-limitations-1",
     "title": "Emotional Landscapes: Mapping Urban Park Sentiments Using Natural Language Processing",
@@ -180,6 +173,13 @@
     "title": "Emotional Landscapes: Mapping Urban Park Sentiments Using Natural Language Processing",
     "section": "Discussion and Limitations (2)",
     "text": "Discussion and Limitations (2)\n\nEthical Considerations\n\nData was collected with respect to privacy, without identifying individual reviewers\n\n\n\n\nContributor Weight/Reliability\n\nreliability of sentiment may vary between platform “super contributors,” who post frequently and may have a more balanced perspective, versus casual users who leave only one or two reviews"
+  },
+  {
+    "objectID": "index.html#additional-research",
+    "href": "index.html#additional-research",
+    "title": "Emotional Landscapes: Mapping Urban Park Sentiments Using Natural Language Processing",
+    "section": "Additional Research",
+    "text": "Additional Research\n\nLatent Dirichlet Allocation (LDA) — a topic modeling in NLP"
   },
   {
     "objectID": "index.html#references-1",

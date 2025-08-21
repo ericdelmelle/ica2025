@@ -235,10 +235,6 @@ knitr::opts_chunk$set(fig.retina = 1)
 ![](images/emotionMap3.png){.center} 
 
 
-## Additional Research
-- **Latent Dirichlet Allocation (LDA)** — a topic modeling in *NLP*
-
-![](images/lda_keywords_table.png){.center} 
 
 
 ## Discussion and Limitations (1)
@@ -267,6 +263,11 @@ knitr::opts_chunk$set(fig.retina = 1)
 - **Contributor Weight/Reliability** 
   - reliability of sentiment may vary between platform "super contributors," who post frequently and may have a more balanced perspective, versus casual users who leave only one or two reviews 
 
+
+## Additional Research
+- **Latent Dirichlet Allocation (LDA)** — a topic modeling in *NLP*
+
+![](images/lda_keywords_table.png){.center} 
 
   
 ## References (1)
